@@ -1,8 +1,8 @@
-# APPLET_COMMUNICATIONS
+## APPLET_COMMUNICATIONS
 
-Instructions to Run
-->Just clone the repository and open it with NetBeans IDE.
-->Run the FrontPage.java
+**Instructions to Run
+*Just clone the repository and open it with NetBeans IDE.
+*Run the FrontPage.java**
 
 The Problem statement is given as follows
 
